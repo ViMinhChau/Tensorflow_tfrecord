@@ -1,0 +1,8 @@
+item { id:1,name:'ngôi sao'}
+item { id:2,name:'hành tinh'}
+item { id:3,name:'tiểu hành tinh'}
+item { id:4,name:'sao băng'}
+item { id:5,name:'sao chổi'}
+item { id:6,name:'thiên hà'}
+item { id:7,name:'tinh vân'}
+item { id:8,name:'lỗ đen'}
