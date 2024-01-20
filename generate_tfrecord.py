@@ -30,14 +30,13 @@ FLAGS = flags.FLAGS
 def class_text_to_int(row_label):
     VOC_LABELS = {
         'none': (0, 'Background'),
-        'ngôi sao': (1, 'ngôi sao'),
-        'hành tinh': (2, 'hành tinh'),
-        'tiểu hành tinh': (3, 'tiểu hành tinh'),
-        'sao băng': (4, 'sao băng'),
-        'sao chổi': (5, 'sao chổi'),
-        'thiên hà': (6, 'thiên hà'),
-        'tinh vân': (7, 'tinh vân'),
-        'lỗ đen': (8, 'lỗ đen'),}
+        'loafers': (1, 'loafers'),
+        'sandals': (2, 'sandals'),
+        'sneakers': (3, 'sneakers'),
+        'person': (4, 'person'),
+        'boots': (5, 'boots'),
+        'soccer shoes': (6, 'soccer shoes'),
+        'flip flops': (7, 'flip flops'),}
     return VOC_LABELS[row_label][0]
     # if row_label == 'mobile':
     #     return 1
