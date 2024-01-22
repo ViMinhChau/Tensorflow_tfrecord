@@ -36,7 +36,8 @@ def class_text_to_int(row_label):
         'person': (4, 'person'),
         'boots': (5, 'boots'),
         'soccer shoes': (6, 'soccer shoes'),
-        'flip flops': (7, 'flip flops'),}
+	'high heels': (7, 'high heels'),
+        'flip flops': (8, 'flip flops'),}
     return VOC_LABELS[row_label][0]
     # if row_label == 'mobile':
     #     return 1
