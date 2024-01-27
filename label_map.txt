@@ -5,4 +5,4 @@ item { id:4,name:'person'}
 item { id:5,name:'boots'}
 item { id:6,name:'soccer shoes'}
 item { id:7,name:'high heels'}
-item { id:8,name:'flip flops'}
+item { id:8,name:'flip_flops'}
