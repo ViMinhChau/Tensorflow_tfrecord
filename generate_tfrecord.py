@@ -33,7 +33,7 @@ def class_text_to_int(row_label):
         'loafers': (1, 'loafers'),
         'sandals': (2, 'sandals'),
         'sneakers': (3, 'sneakers'),
-        'person': (4, 'person'),
+        'derby': (4, 'derby'),
         'boots': (5, 'boots'),
         'soccer shoes': (6, 'soccer shoes'),
 	'high heels': (7, 'high heels'),
